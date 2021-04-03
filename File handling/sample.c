@@ -1,0 +1,1 @@
+this is simple Test for text edit by ofopen
